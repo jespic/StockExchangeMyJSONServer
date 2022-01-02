@@ -176,5 +176,11 @@
                 }
             ]
         }
+    ],
+    "Users" : [
+        {
+            "BagUserId": 1,
+            "Name": "Javi"
+        }
     ]
 }
