@@ -1,55 +1,55 @@
 {
     "Countries": [
         {
-            "Id": 1,
+            "id": 1,
             "Name": "Afghanistan"
         },
         {
-            "Id": 2,
+            "id": 2,
             "Name": "Åland Islands"
         },
         {
-            "Id": 6,
+            "id": 6,
             "Name": "Andorra"
         },
         {
-            "Id": 15,
+            "id": 15,
             "Name": "Austria"
         },
         {
-            "Id": 22,
+            "id": 22,
             "Name": "Belgium"
         },
         {
-            "Id": 61,
+            "id": 61,
             "Name": "Cyprus"
         },
         {
-            "Id": 72,
+            "id": 72,
             "Name": "Estonia"
         },
         {
-            "Id": 77,
+            "id": 77,
             "Name": "Finland"
         },
         {
-            "Id": 78,
+            "id": 78,
             "Name": "France"
         },
         {
-            "Id": 79,
+            "id": 79,
             "Name": "French Guiana"
         }
     ],
     "Currencies": [
         {
-            "Id": 1,
+            "id": 1,
             "Name": "Afghan afghani",
             "Symbol": "؋",
             "Code": "AFN"
         },
         {
-            "Id": 2,
+            "id": 2,
             "Name": "Euro",
             "Symbol": "€",
             "Code": "EUR"
@@ -57,11 +57,11 @@
     ],
     "CountryCurrency":[
         {
-            "Id": 1,
+            "id": 1,
             "Name": "Afghanistan",
             "Currencies": [
                 {
-                    "Id": 1,
+                    "id": 1,
                     "Name": "Afghan afghani",
                     "Symbol": "؋",
                     "Code": "AFN"
@@ -69,11 +69,11 @@
             ]
         },
         {
-            "Id": 2,
+            "id": 2,
             "Name": "Åland Islands",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -81,11 +81,11 @@
             ]
         },
         {
-            "Id": 6,
+            "id": 6,
             "Name": "Andorra",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -93,11 +93,11 @@
             ]
         },
         {
-            "Id": 15,
+            "id": 15,
             "Name": "Austria",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -105,11 +105,11 @@
             ]
         },
         {
-            "Id": 22,
+            "id": 22,
             "Name": "Belgium",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -117,11 +117,11 @@
             ]
         },
         {
-            "Id": 61,
+            "id": 61,
             "Name": "Cyprus",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -129,11 +129,11 @@
             ]
         },
         {
-            "Id": 72,
+            "id": 72,
             "Name": "Estonia",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -141,11 +141,11 @@
             ]
         },
         {
-            "Id": 77,
+            "id": 77,
             "Name": "Finland",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -153,11 +153,11 @@
             ]
         },
         {
-            "Id": 78,
+            "id": 78,
             "Name": "France",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -165,11 +165,11 @@
             ]
         },
         {
-            "Id": 79,
+            "id": 79,
             "Name": "French Guiana",
             "Currencies": [
                 {
-                    "Id": 2,
+                    "id": 2,
                     "Name": "Euro",
                     "Symbol": "€",
                     "Code": "EUR"
@@ -179,7 +179,7 @@
     ],
     "Users" : [
         {
-            "Id": 1,
+            "id": 1,
             "Name": "Javi Espi"
         }
     ]
